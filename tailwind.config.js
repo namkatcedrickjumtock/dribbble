@@ -6,11 +6,12 @@ module.exports = {
   ],
   theme: {
     extend: {},
-    colors: {
-      primay: '#E95989'
-    },
+    // colors: {
+    //   primay: '#E95989',
+    //   fontColor: '#ffffff',
+    //   heroHeader: "#111732"
+    // },
     fontFamily: {
-
     }
 
   },

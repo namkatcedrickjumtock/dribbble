@@ -3,7 +3,7 @@ import { IoSearch } from "react-icons/io5";
 
 const Header = () => {
   return (
-    <div className="flex w-full items-center justify-between px-5">
+    <div className="flex w-full items-center justify-between p-5">
       <div className="flex items-center space-x-5">
         <Image
           src="https://logos-download.com/wp-content/uploads/2016/09/Dribbble_logo_black.png"
@@ -23,7 +23,7 @@ const Header = () => {
       <div className="flex items-center space-x-3 ">
         <IoSearch className="text-gray-500 h-6 w-6" />
         <p className="text-gray-500">Sign In</p>
-        <button className="p-2 bg-primay rounded-md text-base">Share my Work</button>
+        <button className="p-2 text-white bg-[#E95989] rounded-md text-base">Share my Work</button>
       </div>
     </div>
   )
