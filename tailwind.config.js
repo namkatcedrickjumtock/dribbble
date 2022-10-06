@@ -6,6 +6,13 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    colors: {
+      primay: '#E95989'
+    },
+    fontFamily: {
+
+    }
+
   },
   plugins: [],
 }
